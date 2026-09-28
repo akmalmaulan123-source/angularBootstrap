@@ -8,5 +8,7 @@ import { RouterOutlet } from '@angular/router';
   templateUrl: './app.html',
 })
 export class App {
-  protected readonly title = signal('angularBootstrap');
+  nama = "Dwi Akmal Maulana";
+  nim = "282102719";
+  title = " Angular Bootstrap";
 }
