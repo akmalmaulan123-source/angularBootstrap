@@ -10,5 +10,5 @@ import { RouterOutlet } from '@angular/router';
 export class App {
   nama = "Dwi Akmal Maulana";
   nim = "282102719";
-  title = " Angular Bootstrap";
+  title = " Angular Bootsrap";
 }
